@@ -1,2 +1,1 @@
-# PRO-C22-wireframe
-wire frame for c22 
+# os alunos criam os barcos e programa as colisões
