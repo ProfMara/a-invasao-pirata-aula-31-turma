@@ -7,7 +7,6 @@ class Canhao{
         this.baseImg = loadImage("base.png");
     }
     show(){
-        console.log(this.angulo)
         //checar se apertou a seta para esquerda
         if(keyIsDown(LEFT_ARROW) && this.angulo > -40){
             //diminui em 1
